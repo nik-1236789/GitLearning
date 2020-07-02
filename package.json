@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nik-1236789/GitLearning/issues"
   },
-  "homepage": "https://github.com/nik-1236789/GitLearning#readme"
+  "homepage": "https://github.com/nik-1236789/GitLearning#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
